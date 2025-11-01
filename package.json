@@ -2,6 +2,7 @@
   "name": "chartjs-adapter-dayjs",
   "version": "1.0.0",
   "type": "module",
+  "license": "MIT",
   "keywords": [
     "chart.js",
     "day.js",
