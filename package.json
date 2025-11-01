@@ -1,8 +1,14 @@
 {
   "name": "chartjs-adapter-dayjs",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "keywords": [
+    "chart.js",
+    "day.js",
+    "adapter",
+    "date",
+    "time"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
